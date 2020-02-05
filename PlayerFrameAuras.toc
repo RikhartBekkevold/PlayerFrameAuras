@@ -1,0 +1,12 @@
+## Interface: 80200
+## Title: PlayerFrameAuras
+## Notes:
+## Author: Alexxey
+## Version: 1.0
+## SavedVariables: PFAConfig
+## LoadOnDemand: 0
+lib/customframes.lua
+lib/utility.lua
+src/auras.lua
+main.lua
+src/config.lua
